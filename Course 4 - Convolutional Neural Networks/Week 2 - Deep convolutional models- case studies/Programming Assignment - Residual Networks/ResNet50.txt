@@ -1,0 +1,3 @@
+https://drive.google.com/open?id=1jA6S515_SKG7hu-lZOT_xUbOHgc-djs0
+
+download this file and place that in the same directory as ResNet50.txt is.
