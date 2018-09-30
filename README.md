@@ -11,3 +11,5 @@ You will also hear from many top leaders in Deep Learning, who will share with y
 AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
 
 We will help you master Deep Learning, understand how to apply it, and build a career in AI.
+
+[embed]https://www.coursera.org/account/accomplishments/specialization/certificate/FPWCQ459B4ZC.pdf[/embed]
