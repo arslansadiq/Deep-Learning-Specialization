@@ -12,4 +12,3 @@ AI is transforming multiple industries. After finishing this specialization, you
 
 We will help you master Deep Learning, understand how to apply it, and build a career in AI.
 
-[embed] https://www.coursera.org/account/accomplishments/specialization/certificate/FPWCQ459B4ZC [/embed]
