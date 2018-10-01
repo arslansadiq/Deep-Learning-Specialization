@@ -1,6 +1,9 @@
 # Deep-Learning-Specialization
 #### This repository contains all the work done by me without any other's help for Coursera's Deep Learning Specialization.Notes files contains the written detailed discussion of topics presented in the weekly lectures by Prof. Andrew NG. Enjoy ;)
 
+##### Note:
+If you need any help regarding the mathematics of Deep Learning this link: http://explained.ai/matrix-calculus/index.html would help a lot. 
+
 # About This Specialization
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 
