@@ -1,5 +1,5 @@
 # Deep-Learning-Specialization
-#### This repository contains all the work done by me without any other's help for Coursera's Deep Learning Specialization.Notes files contains the written detailed discussion of topics presented in the weekly lectures by Prof. Andrew NG. Enjoy ;)
+#### This repository contains all the work done by me without any other's help for Coursera's Deep Learning Specialization. Notes files contains the written detailed discussion of topics presented in the weekly lectures by Prof. Andrew NG. Enjoy ;)
 
 #### Note:
 If you need any help regarding the mathematics of Deep Learning this link: http://explained.ai/matrix-calculus/index.html would help a lot. 
